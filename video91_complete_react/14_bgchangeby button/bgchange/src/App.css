@@ -1,0 +1,17 @@
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+button {
+  width: 100px;       /* sab button ki width same */
+  padding: 10px 0;    /* height same */
+  font-size: 16px;    /* text size same */
+  border-radius: 8px; /* optional, better look */
+  cursor: pointer;
+  
+}
+h1{
+  text-shadow: 12px;
+}
